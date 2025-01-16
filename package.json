@@ -1,0 +1,50 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@inertiajs/vue3": "^1.0.0",
+        "@tailwindcss/forms": "^0.5.3",
+        "@tailwindcss/typography": "^0.5.10",
+        "@vitejs/plugin-vue": "^4.0.0",
+        "autoprefixer": "^10.4.12",
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.7.5",
+        "postcss": "^8.4.18",
+        "sass": "^1.32.0",
+        "tailwindcss": "^3.2.1",
+        "vite": "^4.0.0",
+        "vue": "^3.2.41"
+    },
+    "dependencies": {
+        "@devindex/vue-mask": "^2.0.3",
+        "@headlessui-float/vue": "^0.11.2",
+        "@headlessui/vue": "^1.7.15",
+        "@heroicons/vue": "^1.0.6",
+        "@popperjs/core": "^2.11.8",
+        "@tailwindcss/line-clamp": "^0.4.2",
+        "@tiptap/extension-code-block-lowlight": "^2.3.2",
+        "@tiptap/extension-color": "^2.3.2",
+        "@tiptap/extension-link": "^2.3.2",
+        "@tiptap/extension-text-style": "^2.3.2",
+        "@tiptap/pm": "^2.1.12",
+        "@tiptap/starter-kit": "^2.1.12",
+        "@tiptap/vue-3": "^2.1.12",
+        "@vueform/multiselect": "^2.6.2",
+        "chart.js": "^4.4.0",
+        "chartjs-plugin-datalabels": "^2.2.0",
+        "floating-vue": "^2.0.0-beta.24",
+        "lowlight": "^3.1.0",
+        "moment": "^2.29.4",
+        "moment-timezone": "^0.5.43",
+        "uuid": "^9.0.0",
+        "v-calendar": "^3.1.2",
+        "vue-chartjs": "^5.3.0",
+        "vue-material-design-icons": "^5.2.0",
+        "vue3-datepicker": "^0.4.0",
+        "vue3-select": "^0.1.2"
+    }
+}

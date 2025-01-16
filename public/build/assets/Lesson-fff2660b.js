@@ -1,0 +1,1 @@
+import{c as s,a as t,u as a,F as o,d as e,o as n,Z as c}from"./app-b19efd51.js";const l=e("h1",null,"Test",-1),r=e("div",{class:"max-w-7xl mx-auto sm:px-6 lg:px-8"},null,-1),d={__name:"Lesson",props:{lesson:Object},setup(_){return(p,u)=>(n(),s(o,null,[t(a(c),{title:"Lesson"}),l,r],64))}};export{d as default};
