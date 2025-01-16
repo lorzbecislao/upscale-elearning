@@ -17,3 +17,5 @@ An advanced e-learning platform powered by Tiptap, a versatile and feature-rich 
    - Other configurations as needed.
 4. Set up the database schema and populate initial data: `php artisan migrate:fresh --seed`
 5. Compile and serve the frontend assets for development: `npm run dev`
+
+##
